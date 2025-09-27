@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Tech Stack (resumo)
+## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff)
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 Minhas estatísticas 
+## 📊 Stats
 
 ### Estatísticas gerais
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilicarol&show_icons=true&count_private=true&theme=tokyonight)
