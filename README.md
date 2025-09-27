@@ -2,9 +2,6 @@
 
 **🎓 Estudante de Engenharia da Computação — 10º período**
 
- 🌐 Organização GitHub: `Projects-inatel`.
-
-
 ---
 
 ## 📫 Contato
