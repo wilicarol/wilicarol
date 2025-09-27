@@ -1,9 +1,9 @@
 # Olá, sou a Wiliane Carolina
 
-**🎓 Estudante de Engenharia da Computação — 10º período** 
-- 🌐 Organização GitHub: `Projects-inatel`.
-- 📚 Sempre aprendendo, explorando e compartilhando conhecimento.  
-- 🎯 Objetivo: unir criatividade e técnica no desenvolvimento de soluções em software, contribuindo para projetos de impacto enquanto evoluo como engenheira.
+**🎓 Estudante de Engenharia da Computação — 10º período**
+
+ 🌐 Organização GitHub: `Projects-inatel`.
+
 
 ---
 
