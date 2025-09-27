@@ -7,8 +7,8 @@
 ---
 
 ## 📫 Contato
-- ✉️ Email: [YOUR_EMAIL](mailto:wili.carol0235@gmail.com)  
-- 💼 LinkedIn: [YOUR_LINKEDIN]([YOUR_LINKEDIN](https://www.linkedin.com/in/wiliane-silva/)  
+- ✉️ Email: [mailto:wili.carol0235@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/wiliane-silva/] 
 - 🌐 Organização GitHub: `Projects-inatel` 
 
 ---
@@ -37,14 +37,6 @@
 
 ### Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilicarol&layout=compact&theme=tokyonight)
-
-### Gráfico de contribuições
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=wilicarol&theme=react-dark&area=true)
-
----
-
-## 🔎 Projects & Organização
-Criei a organização `Projects-inatel` para centralizar meus trabalhos acadêmicos: projetos, exercícios e implementações práticas realizada durante o curso.  
 
 ---
 
