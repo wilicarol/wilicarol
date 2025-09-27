@@ -7,8 +7,8 @@
 ---
 
 ## 📫 Contato
-- ✉️ Email: [mailto:wili.carol0235@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/wiliane-silva/] 
+- ✉️ Email: [![Gmail Badge](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wili.carol0235@gmail.com)
+- 💼 LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU_LINKEDIN/](https://www.linkedin.com/in/wiliane-silva/))
 - 🌐 Organização GitHub: `Projects-inatel` 
 
 ---
