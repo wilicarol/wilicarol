@@ -1,7 +1,7 @@
 # Olá, sou a Wiliane Carolina
 
 **🎓 Estudante de Engenharia da Computação — 10º período** 
-🌐 Organização GitHub: `Projects-inatel` 
+🌐 Organização GitHub: `Projects-inatel`.
 📚 Sempre aprendendo, explorando e compartilhando conhecimento.  
 🎯 Objetivo: unir criatividade e técnica no desenvolvimento de soluções em software, contribuindo para projetos de impacto enquanto evoluo como engenheira.
 
@@ -31,11 +31,8 @@
 
 ## 📊 Stats
 
-### Estatísticas gerais
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilicarol&show_icons=true&count_private=true&theme=tokyonight)
 
-### Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilicarol&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilicarol&show_icons=true&count_private=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilicarol&layout=compact&theme=tokyonight)
 
 ---
 
