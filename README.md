@@ -1,6 +1,7 @@
-# Olá , eu sou a Wiliane Carolina
+# Olá, sou a Wiliane Carolina
 
-**🎓 Estudante de Engenharia da Computação — 10º período**  
+**🎓 Estudante de Engenharia da Computação — 10º período** 
+🌐 Organização GitHub: `Projects-inatel` 
 📚 Sempre aprendendo, explorando e compartilhando conhecimento.  
 🎯 Objetivo: unir criatividade e técnica no desenvolvimento de soluções em software, contribuindo para projetos de impacto enquanto evoluo como engenheira.
 
@@ -8,7 +9,6 @@
 
 ## 📫 Contato
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wili.carol0235@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU_LINKEDIN/](https://www.linkedin.com/in/wiliane-silva/))
-- 🌐 Organização GitHub: `Projects-inatel` 
 
 ---
 
@@ -42,7 +42,7 @@
 ## ⚙️ Aprendendo e compartilhando
 Atualmente em foco de estudo:
 - Python, voltado para aplicações em Machine Learning.
-- Desenvolvimento Web utilizando React e TypeScript).
+- Desenvolvimento Web utilizando React e TypeScript.
 - Visualização e análise de dados com Power BI e Excel.
 
 
