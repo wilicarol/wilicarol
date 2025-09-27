@@ -32,7 +32,7 @@
 ## 📊 Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilicarol&show_icons=true&count_private=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilicarol&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilicarol&show_icons=true&count_private=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilicarol&layout=compact&theme=dark)
 
 ---
 
